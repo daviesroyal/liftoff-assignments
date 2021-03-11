@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [General Flow](https://github.com/daviesroyal/liftoff-assignments/blob/master/PHTWireframeV1.png)
+* [Login Page](https://github.com/daviesroyal/liftoff-assignments/blob/master/PHTWireframeV1.1.png)
+* [Register Page](https://github.com/daviesroyal/liftoff-assignments/blob/master/PHTWireframeV1.2.png)
+* [Profile Page](https://github.com/daviesroyal/liftoff-assignments/blob/master/PHTWireframeV1.3.png)
+* [Horse Profile Page](https://github.com/daviesroyal/liftoff-assignments/blob/master/PHTWireframeV1.4.png)
 
 ### Project Tracker
 
@@ -16,4 +20,4 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Pocket Horse Trainer Repo](https://github.com/daviesroyal/PocketHorseTrainer)
